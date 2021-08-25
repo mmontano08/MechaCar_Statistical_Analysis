@@ -33,7 +33,7 @@ lot_summary <- suspension_data %>% group_by(Manufacturing_Lot) %>% summarize(Mea
 head(lot_summary)
 
 
-# ##Deliverable #3
+# #Deliverable #3
 Lot1 <- t.test(subset(suspension_data, Manufacturing_Lot== "Lot1")$PSI,mu=1500)
 Lot1
 Lot2 <- t.test(subset(suspension_data, Manufacturing_Lot== "Lot2")$PSI,mu=1500)
@@ -47,4 +47,5 @@ check_lot3
 all_lots <- t.test(suspension_data$PSI,mu=1500)
 all_lots
 
-
+# #Deliverable #4
+Please see READme for answer.
