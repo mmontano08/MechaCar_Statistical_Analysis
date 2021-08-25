@@ -71,7 +71,6 @@ mean of x
 ## Deliverable 4
 ## Study Design: MechaCar vs Competition
 	
-A significant intercept could mean that the significant features such as weight and horsepower may need scaling interpteting to help improve the predictive power of the vehicle. Alternatively, it may mean that there are other variables that can help explain the variability of our dependent variable that have not been included in our model. A null hypothesis: Number of passengers in the Vehicle Statistical test is described: Possible total weight in vehicle verses size of the vehicle and how it peforms. 
+A significant intercept could mean that the significant features such as weight and horsepower may need scaling interpteting to help improve the predictive power of the vehicle. On the other hand, it may mean that there are other variables that can help explain the variability of our dependent variable that have not been included in the model. The null hypothesis: Number of passengers in the Vehicle Statistical test is described: Possible total weight in vehicle verses size of the vehicle and how it peforms. 
 
-Data for the statistical test: 
-	# of possible vehicle passwngers and effect on vehicle performace.
+Data for the statistical test: number of possible vehicle passengers and effect on vehicle performace.
