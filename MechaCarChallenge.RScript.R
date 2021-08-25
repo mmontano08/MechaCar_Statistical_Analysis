@@ -48,4 +48,4 @@ all_lots <- t.test(suspension_data$PSI,mu=1500)
 all_lots
 
 # #Deliverable #4
-Please see READme for answer.
+Please see README.md for answer
